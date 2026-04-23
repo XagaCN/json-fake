@@ -5,8 +5,8 @@
     { "id": 3, "title": "Post 3" }
   ],
   "doc-info": [
-    { "requestCode": "a01", "projectNo": "a01-p01", "productName": "左/右A柱外饰板总成、左/右翼子板前饰板总成、外饰板唇边、密封海绵、紧固件" },
-    { "requestCode": "a02", "projectNo": "a02-p01", "productName": "左/右A柱外饰板总成、左/右翼子板前饰板总成、外饰板唇边、密封海绵" }
+    { "requestCode": "a01", "projectNo": "a01-p01", "context": "样品名称：左/右A柱外饰板总成、左/右翼子板前饰板总成、外饰板唇边、密封海绵、紧固件；委托单位：广东省优品有限公司；检测类别：委托检测" },
+    { "requestCode": "a02", "projectNo": "a02-p01", "context": "左/右A柱外饰板总成、左/右翼子板前饰板总成、外饰板唇边、密封海绵；委托单位：广东省爱家有限公司；检测类别：委托检测" }
   ],
   "profile": {
     "name": "typicode"
