@@ -4,9 +4,9 @@
     { "id": 2, "title": "Post 2" },
     { "id": 3, "title": "Post 3" }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+  "doc-info": [
+    { "requestCode": "a01", "projectNo": "a01-p01", "productName": "左/右A柱外饰板总成、左/右翼子板前饰板总成、外饰板唇边、密封海绵、紧固件" },
+    { "requestCode": "a02", "projectNo": "a02-p01", "productName": "左/右A柱外饰板总成、左/右翼子板前饰板总成、外饰板唇边、密封海绵" }
   ],
   "profile": {
     "name": "typicode"
